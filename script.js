@@ -38,7 +38,7 @@ while (i < 16) {
     i++;
     if (i % 2 === 0) {
         continue;
-    } else {
+        } else {
         console.log(i);
     }
 }
